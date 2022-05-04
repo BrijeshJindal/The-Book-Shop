@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "note.dtd">
+<bookstore>
+
+<book category="fiction">
+  <title lang="en">The superhero</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>30.00</price>
+</book>
+
+<book category="fiction">
+  <title lang="en">marvels</title>
+  <author>iron man</author>
+  <year>1996</year>
+  <price>50.00</price>
+</book>
+
+<book category="fiction">
+  <title lang="en">Tokyo revengers</title>
+  <author>Takemechi</author>
+  <year>2007</year>
+  <price>80.00</price>
+</book>
+
+<book category="fiction">
+  <title lang="en">Tokyo revengers</title>
+  <author>Takemechi</author>
+  <year>2007</year>
+  <price>80.00</price>
+</book>
+
+<book category="non fiction">
+  <title lang="en">one piece</title>
+  <author>daraken</author>
+  <year>2015</year>
+  <price>25.00</price>
+</book>
+
+<book category="non fiction">
+  <title lang="en">deamon slayer</title>
+  <author>mikey</author>
+  <year>2009</year>
+  <price>75.00</price>
+</book>
+
+<book category="relogion">
+  <title lang="en">Bhagwat gita</title>
+  <author>lord krishna</author>
+  <year>1777</year>
+  <price>129.00</price>
+</book>
+
+<book category="religion">
+  <title lang="en">ramayana</title>
+  <author>valmili</author>
+  <year>1537</year>
+  <price>800.00</price>
+</book>
+
+<book category="religion">
+  <title lang="en">mahabharata</title>
+  <author>vyasa</author>
+  <year>3rd bc</year>
+  <price>190.00</price>
+</book>
+
+<book category="religion">
+  <title lang="en">The bible</title>
+  <author>jesus crist</author>
+  <year>12bc</year>
+  <price>120.00</price>
+</book>
+
+
+</bookstore>
